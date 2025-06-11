@@ -7,7 +7,7 @@ This shopping cart uses simple PHP math operators and functions to handle calcul
 - Collecting User input
 - Cleaning user input
 - Handling variables containing different data types
-- Using PHPs built in Maths functions
+- Using PHPs built-in Maths functions
 - Using arithmetic and comparison operators.
 
 
